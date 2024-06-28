@@ -1,4 +1,4 @@
-#Kingdomino project
+# Kingdomino project
 
 Project eerste jaar Toegepaste Informatica - HoGent
 
